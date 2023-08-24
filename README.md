@@ -58,3 +58,6 @@
 
 - once completed write "eb deploy" to deploy application
 
+![screenshot](/Screenshot%202023-08-23%20at%208.37.04%20PM.png)
+
+![screenshot](/Screenshot%202023-08-23%20at%208.37.22%20PM.png)
